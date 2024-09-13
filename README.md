@@ -1,5 +1,4 @@
 # Compte personne
-Projet réalisé par Buren Arthur , Chahbi Thaha et Rosenzweig Lucas
 
 Le projet consite en un petit appreil electronique (déclencheur) a placer 
 au desus d'une porte relié a un raspberry en utilisant des puces ZigBee
@@ -12,3 +11,5 @@ Ce faisant le raspberry est capable de savoir si une personne est entrée ou sor
 Le fichier compeur.py contient le programme python excécuté par le raspberry
 Le fichier index.php est le fichier fonctionnant sur serveur apache ainsi que style.css
 Le fichier db.sqlite correspond a la base de donnée
+
+Projet réalisé par Buren Arthur , Chahbi Thaha et Rosenzweig Lucas
